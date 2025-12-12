@@ -1,4 +1,4 @@
-# 🚀 Employee Management Dashboard
+# 🚀 Employee and Admin Management Dashboard
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
@@ -15,7 +15,6 @@ A state-of-the-art, high-performance **Employee Management System** designed for
 -   **Analytics & Reporting**: Deep insights with interactive charts.
 -   **Attendance Tracking**: Automated logging and visualized patterns.
 -   **Payroll Systems**: Seamless salary structure and processing.
--   **Role-Based Access**: Secure and hierarchical permission levels.
 
 ---
 
@@ -44,7 +43,7 @@ Ensure you have **Node.js** (v18+) installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/employee-dashboard.git
+git clone https://github.com/abhishekk-y/SMG_F
 
 # Navigate to project directory
 cd employee-dashboard
@@ -95,14 +94,12 @@ To start the project in development mode:
 
 ---
 
-## 🛡️ Security & Performance
-
--   **Data Encryption**: Secure handling of sensitive employee data.
+## Performance
 -   **Optimized Assets**: Fast load times with Vite's build optimizations.
 -   **Responsive Design**: Fully functional across all devices (Desktop, Tablet, Mobile).
 
 ---
 
 <center>
-  <p>Made with ❤️ by the Engineering Team</p>
+  <p>Made with by the Abhi</p>
 </center>
